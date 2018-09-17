@@ -3,3 +3,5 @@ public class Funtzionalitate {
 		System.out.println("Hemen kode konplexu bat izan beharko genuke :-) ");
 	}
 }
+
+
